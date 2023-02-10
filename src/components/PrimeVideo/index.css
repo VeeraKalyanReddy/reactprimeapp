@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.app-cont {
+  background-color: black;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  width: 100%;
+  height: 30vh;
+}
+.movies-cont {
+  width: 90%;
+  margin: auto;
+  margin-top: 0px;
+  margin-bottom: 32px;
+}
+.head {
+  color: #ffffff;
+  font-size: 25px;
+  margin-top: 20px;
+}
